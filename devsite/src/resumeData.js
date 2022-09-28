@@ -14,9 +14,9 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"codewars",
+          "url":"http://codewars.com/users/RyanDillman",
+          "className":"fa fa-code"
         }
       ],
     "aboutme":"I am a student at Western Governor's University in the Computer Science program.",
