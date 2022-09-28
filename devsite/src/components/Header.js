@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { SiCodewars } from "react-icons/si";
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -14,7 +15,6 @@ export default class Header extends Component {
                <li><a className="smoothscroll" href="#about">About</a></li>
              <li><a className="smoothscroll" href="#resume">Resume</a></li>
                <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-               <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
                <li><a className="smoothscroll" href="#contact">Contact</a></li>
             </ul>
          </nav>

@@ -1,10 +1,7 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"",
     "name": "Ryan Dillman",
-    "role": "Software Developer",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "role": "Software Developer interested in Full Stack Web Development and Data Science",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +19,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am a student at Western Governor's University in the Computer Science program.",
     "address":"Florida",
     "email":"ryan@dillman.dev",
     "education":[
@@ -41,29 +38,13 @@ let resumeData = {
         "Achievements":""
       }
     ],
-    "work":[
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"JavaScript"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Python"
       },
       {
         "skillname":"Reactjs"
@@ -75,21 +56,6 @@ let resumeData = {
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
     ],
   }
   
