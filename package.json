@@ -2,13 +2,14 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ryandillman.github.io",
+  "homepage": "https://ryandillman.github.io/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-icons": "^4.4.0",
+    "react-router-dom": "^6.4.1",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
