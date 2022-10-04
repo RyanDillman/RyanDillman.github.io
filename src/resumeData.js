@@ -19,9 +19,9 @@ let resumeData = {
           "className":"fa fa-code"
         }
       ],
-    "aboutme":"I am a student at Western Governor's University in the Computer Science program.",
+    "aboutme":"I am a student at Western Governor's University in the Computer Science program. I am looking for entry level work in software development.",
     "address":"Florida",
-    "email":"ryan@dillman.dev",
+    "email":"ryanfdillman@outlook.com",
     "education":[
       {
         "UniversityName":"Valencia College",
@@ -38,7 +38,6 @@ let resumeData = {
         "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
     "skills":[
       {
         "skillname":"JavaScript"
