@@ -411,7 +411,7 @@ ul#nav li.current a { color: #1a64ee; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #1a64ee;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -971,7 +971,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #1a64ee;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
